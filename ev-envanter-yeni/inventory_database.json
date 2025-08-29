@@ -1,0 +1,56 @@
+{
+  "users": {
+    "test@test.com": {
+      "password": "123456",
+      "uid": "test_user_123"
+    },
+    "admin@admin.com": {
+      "password": "admin123",
+      "uid": "admin_user_456"
+    }
+  },
+  "inventory": {
+    "test_user_123": {
+      "item_1756476501277": {
+        "name": "süzme yoğurt",
+        "category": "Diğer",
+        "quantity": 1.0,
+        "unit": "kg",
+        "expiry_date": "2025-09-30",
+        "location": "",
+        "notes": "",
+        "created_at": 1756476501.277858
+      },
+      "item_1756476527211": {
+        "name": "kıyma",
+        "category": "Et & Tavuk & Balık",
+        "quantity": 1.0,
+        "unit": "kg",
+        "expiry_date": "2025-10-30",
+        "location": "",
+        "notes": "",
+        "created_at": 1756476527.211019
+      },
+      "item_1756476601527": {
+        "name": "tavuk ",
+        "category": "Et & Tavuk & Balık",
+        "quantity": 1.0,
+        "unit": "kg",
+        "expiry_date": "2025-08-31",
+        "location": "",
+        "notes": "",
+        "created_at": 1756476601.527903
+      },
+      "item_1756476642437": {
+        "name": "mayonez",
+        "category": "Baharat & Sos",
+        "quantity": 1.0,
+        "unit": "kg",
+        "expiry_date": "2025-08-31",
+        "location": "",
+        "notes": "",
+        "created_at": 1756476642.4375386
+      }
+    }
+  }
+}
